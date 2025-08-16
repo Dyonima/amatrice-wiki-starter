@@ -1,0 +1,62 @@
+site_name: Amatrice Staff Wiki
+site_url: https://dyonima.github.io/amatrice-wiki
+repo_url: https://github.com/dyonima/amatrice-wiki
+repo_name: Amatrice Wiki
+
+theme:
+  name: material
+  logo: assets/logo.png
+  favicon: assets/favicon.png
+  palette:
+    - scheme: default
+      primary: custom
+      accent: custom
+  font:
+    text: The Future
+    code: Roboto Mono
+
+extra_css:
+  - styles/extra.css
+
+nav:
+  - Home: index.md
+  - About Amatrice:
+      - Our Story: about/story.md
+      - Aperitivo Culture: about/aperitivo.md
+  - Policies & Procedures:
+      - Code of Conduct: policies/code-of-conduct.md
+      - Workplace Expectations: policies/workplace.md
+      - Uniform & Grooming: policies/uniform.md
+      - Rosters & Payroll: policies/rostering.md
+      - Health & Safety: policies/safety.md
+  - Service Standards:
+      - Guest Experience: service/guest-experience.md
+      - Steps of Service: service/steps.md
+      - Complaints Handling: service/complaints.md
+      - Reservations & Seating: service/reservations.md
+  - Beverage Program:
+      - Overview: beverage/overview.md
+      - Cocktail Menu: beverage/cocktails.md
+      - Wine List: beverage/wine.md
+      - Service Standards: beverage/service.md
+  - Food Program:
+      - Seasonal Menu: food/menu.md
+      - Dish Highlights: food/dishes.md
+      - Dietary Info: food/dietary.md
+  - Training Hub:
+      - Onboarding: training/onboarding.md
+      - FOH Guide: training/foh.md
+      - Bar Guide: training/bar.md
+      - Kitchen Guide: training/kitchen.md
+      - Quizzes: training/quizzes.md
+  - Roster & Events:
+      - Roster Info: roster/roster.md
+      - Events: roster/events.md
+  - Team Updates:
+      - Leadership Notes: updates/notes.md
+      - Policy Changes: updates/policies.md
+      - Staff Shoutouts: updates/shoutouts.md
+  - Resources:
+      - Employee Handbook: resources/handbook.md
+      - Menus & Cheat Sheets: resources/menus.md
+      - Supplier Contacts: resources/contacts.md
