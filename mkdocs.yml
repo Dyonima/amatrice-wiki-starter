@@ -1,6 +1,6 @@
 site_name: Amatrice Staff Wiki
-site_url: https://dyonima.github.io/amatrice-wiki
-repo_url: https://github.com/dyonima/amatrice-wiki
+site_url: https://yourusername.github.io/amatrice-wiki
+repo_url: https://github.com/yourusername/amatrice-wiki
 repo_name: Amatrice Wiki
 
 theme:
@@ -14,57 +14,74 @@ theme:
   font:
     text: The Future
     code: Roboto Mono
-theme:
-  name: material
   features:
     - navigation.instant
     - navigation.tracking
     - navigation.sections
     - navigation.expand
     - navigation.indexes
+    - content.code.copy
+    - palette.toggle
 
 extra_css:
   - styles/extra.css
 
+plugins:
+  - search
+
+# Footer text
+copyright: "Amatrice Staff Wiki · Cremorne · 2025"
+
 nav:
   - Home: index.md
+  - Glossary: glossary.md
   - About Amatrice:
+      - index.md
       - Our Story: about/story.md
       - Aperitivo Culture: about/aperitivo.md
   - Policies & Procedures:
+      - index.md
       - Code of Conduct: policies/code-of-conduct.md
       - Workplace Expectations: policies/workplace.md
       - Uniform & Grooming: policies/uniform.md
       - Rosters & Payroll: policies/rostering.md
       - Health & Safety: policies/safety.md
   - Service Standards:
+      - index.md
       - Guest Experience: service/guest-experience.md
       - Steps of Service: service/steps.md
       - Complaints Handling: service/complaints.md
       - Reservations & Seating: service/reservations.md
   - Beverage Program:
+      - index.md
       - Overview: beverage/overview.md
       - Cocktail Menu: beverage/cocktails.md
       - Wine List: beverage/wine.md
       - Service Standards: beverage/service.md
   - Food Program:
+      - index.md
       - Seasonal Menu: food/menu.md
       - Dish Highlights: food/dishes.md
       - Dietary Info: food/dietary.md
   - Training Hub:
+      - index.md
       - Onboarding: training/onboarding.md
       - FOH Guide: training/foh.md
       - Bar Guide: training/bar.md
       - Kitchen Guide: training/kitchen.md
       - Quizzes: training/quizzes.md
   - Roster & Events:
+      - index.md
       - Roster Info: roster/roster.md
       - Events: roster/events.md
   - Team Updates:
+      - index.md
       - Leadership Notes: updates/notes.md
       - Policy Changes: updates/policies.md
       - Staff Shoutouts: updates/shoutouts.md
   - Resources:
+      - index.md
       - Employee Handbook: resources/handbook.md
       - Menus & Cheat Sheets: resources/menus.md
       - Supplier Contacts: resources/contacts.md
+  - 404 Page: 404.md
