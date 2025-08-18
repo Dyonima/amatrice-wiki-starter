@@ -1,3 +1,0 @@
-# Foh
-
-Content coming soon...

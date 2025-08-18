@@ -1,3 +1,0 @@
-# Kitchen
-
-Content coming soon...

@@ -1,3 +1,0 @@
-# Story
-
-Content coming soon...

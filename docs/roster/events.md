@@ -1,3 +1,0 @@
-# Events
-
-Content coming soon...

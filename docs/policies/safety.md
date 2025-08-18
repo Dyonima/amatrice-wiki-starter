@@ -1,3 +1,0 @@
-# Safety
-
-Content coming soon...

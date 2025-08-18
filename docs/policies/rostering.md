@@ -1,3 +1,0 @@
-# Rostering
-
-Content coming soon...

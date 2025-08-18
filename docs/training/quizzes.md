@@ -1,3 +1,0 @@
-# Quizzes
-
-Content coming soon...

@@ -1,8 +1,0 @@
-:root {
-  --md-primary-fg-color: #390013;  /* Amatrice Burgundy */
-  --md-accent-fg-color: #ca1117;   /* Amatrice Red */
-}
-
-.md-header, .md-footer {
-  font-family: "The Future", sans-serif;
-}

@@ -1,3 +1,0 @@
-# Notes
-
-Content coming soon...

@@ -1,3 +1,0 @@
-# Aperitivo
-
-Content coming soon...

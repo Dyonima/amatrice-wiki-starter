@@ -1,3 +1,0 @@
-# Handbook
-
-Content coming soon...

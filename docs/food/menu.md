@@ -1,3 +1,0 @@
-# Menu
-
-Content coming soon...

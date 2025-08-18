@@ -1,3 +1,0 @@
-# Onboarding
-
-Content coming soon...

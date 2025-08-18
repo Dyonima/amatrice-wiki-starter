@@ -1,3 +1,0 @@
-# Workplace
-
-Content coming soon...

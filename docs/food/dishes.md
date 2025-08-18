@@ -1,3 +1,0 @@
-# Dishes
-
-Content coming soon...

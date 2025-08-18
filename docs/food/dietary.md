@@ -1,3 +1,0 @@
-# Dietary
-
-Content coming soon...

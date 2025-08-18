@@ -1,3 +1,0 @@
-# Reservations
-
-Content coming soon...

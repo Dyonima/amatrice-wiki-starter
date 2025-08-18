@@ -1,3 +1,0 @@
-# Shoutouts
-
-Content coming soon...

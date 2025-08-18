@@ -1,3 +1,0 @@
-# Cocktails
-
-Content coming soon...

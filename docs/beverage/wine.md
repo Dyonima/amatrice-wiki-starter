@@ -1,3 +1,0 @@
-# Wine
-
-Content coming soon...
